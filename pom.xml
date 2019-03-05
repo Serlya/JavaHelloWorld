@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>JavaHelloWorld</name>
-  <url>http://maven.apache.org</url>
+  <url>http://192.168.1.83:8000</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
